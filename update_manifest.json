@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "name": "emuflow.exe",
+      "replace": true
+    }
+  ]
+}
