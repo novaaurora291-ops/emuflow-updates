@@ -1,5 +1,5 @@
 {
   "version": "1.0.2",
   "download_url": "https://github.com/novaaurora291-ops/emuflow-updates/releases/download/v1.0.2/EmuFlow.exe",
-  "changelog": "changelog": "• New License System with Expiry tracking.\n• UI Polish: Fixed text clipping and layout issues.\n• Bug Fix: Blocked keys now lock the app instantly.\n• Improved GPU model detection."
+  "changelog": "• New License System with Expiry tracking.\n• UI Polish: Fixed text clipping and layout issues.\n• Bug Fix: Blocked keys now lock the app instantly.\n• Improved GPU model detection."
 }
